@@ -22,7 +22,7 @@ const sess = {
 
 app.use(session(sess));
 
-app.engine("handlebars", handlebars.engine);
+app.engine("handlebars", hbs.engine);
 app.set("view engine", "handlebars");
 
 app.use(express.json());
