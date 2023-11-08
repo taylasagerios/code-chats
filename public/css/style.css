@@ -1,0 +1,78 @@
+header {
+    font-family: "Jomolhari", serif;
+  }
+  
+  body {
+    background-color: #ffffff;
+  }
+  
+  h1 {
+    font-family: "Jomolhari", serif;
+    background-color: rgb(132, 132, 132);
+    color: #26005b;
+    padding: 16px;
+    margin-bottom: 5px;
+  }
+  
+  #blogName {
+    color: #000000;
+  }
+  
+  main {
+    font-family: "Jomolhari", serif;
+    margin-top: -5px;
+    background-color: #ababab;
+  }
+  
+  .homepage-main {
+    margin-top: 34px;
+  }
+  
+  .user-name {
+    background-color: #c796ff;
+  }
+  
+  .blogPost-main {
+    margin-top: 34px;
+  }
+  
+  .navBar {
+    background-color: #3300a0;
+  }
+  
+  #logout {
+    background-color: #b987ff;
+  }
+  
+  #titleInput,
+  #bodyInput,
+  #comment,
+  #email-login,
+  #password-login,
+  #name-signup,
+  #email-signup,
+  #password-signup {
+    background-color: #e5eaf5;
+  }
+  
+  .btn {
+    background-color: #9970f8;
+  }
+  
+  .card-header {
+    background-color: #ffffff;
+  }
+  
+  .card-body {
+    background-color: #d1d1d1;
+  }
+  
+  .card {
+    background-color: #ffe5ec;
+  }
+  
+  .card:hover {
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+    transform: scale(1.02);
+    transition: all 0.3s ease;
+  }
