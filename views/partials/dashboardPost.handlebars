@@ -1,0 +1,11 @@
+<div class="container">
+    <div class="row">
+        <div class="card text-dark shadow mb-3">
+            <h2><a href="/blogPost/{{id}}">{{title}}</title></a></h2>
+            <p>Created by {{user.name}} on {{format_date dateCreated}}</p>
+            <p>{{description}}</p>
+            <button class="btn btn-dark" id="editbtn" data-id="{{id}}">Edit</button>
+            <button class="btn btn-dark" id="deletebtn" data-id="{{id}}">Delete</button>
+        </div>
+    </div>
+</div>
