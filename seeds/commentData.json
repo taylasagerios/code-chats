@@ -1,0 +1,38 @@
+[
+    {
+      "comment_body": "What are you talking about!",
+      "date_created": "January 7, 2002",
+      "user_id": 2,
+      "blogPost_id": 1
+    },
+    {
+      "comment_body": "He asked what day it was",
+      "date_created": "October 3, 2022",
+      "user_id": 3,
+      "blogPost_id": 1
+    },
+    {
+      "comment_body": "Anakin is my spirit animal!",
+      "date_created": "May 4, 2012",
+      "user_id": 3,
+      "blogPost_id": 2
+    },
+    {
+      "comment_body": "What is your spirit animal?",
+      "date_created": "August 6, 2013",
+      "user_id": 1,
+      "blogPost_id": 2
+    },
+    {
+      "comment_body": "When I met you in the summer",
+      "date_created": "July 28, 2016",
+      "user_id": 2,
+      "blogPost_id": 3
+    },
+    {
+      "comment_body": "Hey Girl",
+      "date_created": "May 1, 2023",
+      "user_id": 1,
+      "blogPost_id": 3
+    }
+  ]

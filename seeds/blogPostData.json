@@ -1,0 +1,20 @@
+[
+    {
+      "title": "The future of sandwhiches",
+      "description": "Crustables should be the way to make all sandwhiches",
+      "date_created": "November 3, 2020",
+      "user_id": 1
+    },
+    {
+      "title": "Starwars was good with out the sequels",
+      "description": "Rey in not an actual Skywalker but we don't know how to tell her.",
+      "date_created": "April 7, 2014",
+      "user_id": 2
+    },
+    {
+      "title": "Tiny homes are the future of overcrowded livining",
+      "description": "Tiny homes might be the solution of overpopulation in America.",
+      "date_created": "March 25, 2011",
+      "user_id": 3
+    }
+  ]
